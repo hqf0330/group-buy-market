@@ -1,4 +1,4 @@
-package com.binghu.gbm.app;
+package com.binghu.gbm;
 
 import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.boot.SpringApplication;
