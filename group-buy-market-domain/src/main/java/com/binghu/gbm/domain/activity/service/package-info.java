@@ -1,0 +1,1 @@
+package com.binghu.gbm.domain.activity.service;
